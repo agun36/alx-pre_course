@@ -1,2 +1,2 @@
-my new readme UPDATED README
+my new readme updated
 
